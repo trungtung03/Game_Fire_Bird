@@ -15,7 +15,7 @@ public class Bullet {
 
     Bullet (Resources res) {
 
-        bullet = BitmapFactory.decodeResource(res, R.drawable.kamekameha);
+        bullet = BitmapFactory.decodeResource(res, R.drawable.bullet);
 
         width = bullet.getWidth();
         height = bullet.getHeight();
